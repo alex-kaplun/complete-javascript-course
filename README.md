@@ -20,7 +20,7 @@ There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/comp
 
 ### Q3: What VSCode theme are you using?
 
-**A:** I use Monokai Pro for all my coding and course production. It's a paid theme (I', **not** affiliated with them), but you can actually use the free demo version forever 😅
+**A:** I use Monokai Pro for all my coding and course production. It's a paid theme (I'm **not** affiliated with them), but you can actually use the free demo version forever 😅
 
 ### Q4: Can I see a final version of the course projects?
 
